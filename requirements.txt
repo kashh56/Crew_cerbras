@@ -1,7 +1,5 @@
-streamlit
-crewai==0.12.1
-python-dotenv
-crewai-tools
-cerebras_cloud_sdk
-chromadb==0.4.22
-pysqlite3-binary>=0.5.4
+streamlit==1.44.1
+crewai==0.114.0
+crewai-tools==0.40.1
+python-dotenv==1.1.0
+pysqlite3-binary==0.5.2
