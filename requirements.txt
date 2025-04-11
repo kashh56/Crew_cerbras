@@ -1,5 +1,5 @@
 streamlit
-crewai
+crewai==0.12.1
 python-dotenv
 crewai-tools
 cerebras_cloud_sdk
