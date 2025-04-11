@@ -1,7 +1,2 @@
-pysqlite3-binary 
-streamlit
-crewai
 python-dotenv
-crewai-tools
 cerebras_cloud_sdk 
-chromadb
