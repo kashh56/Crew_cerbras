@@ -1,2 +1,5 @@
+streamlit
+crewai
 python-dotenv
-cerebras_cloud_sdk 
+crewai-tools
+cerebras_cloud_sdk
