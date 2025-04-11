@@ -4,4 +4,4 @@ python-dotenv
 crewai-tools
 cerebras_cloud_sdk
 chromadb==0.4.22
-pysqlite3-binary==0.5.1
+pysqlite3-binary>=0.5.4
