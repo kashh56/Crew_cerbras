@@ -1,5 +1,6 @@
 streamlit==1.44.1
 crewai==0.114.0
-crewai-tools==0.40.1
 python-dotenv==1.1.0
-pysqlite3-binary==0.5.4
+crewai-tools==0.40.1
+cerebras_cloud_sdk==0.6.0
+
